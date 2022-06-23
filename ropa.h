@@ -68,4 +68,7 @@ public:
     inline string getTallaRopa() { return this->talla; };
 };
 
+class VectorRopa{
+};
+
 #endif //TRABAJOFINAL2_ROPA_H
