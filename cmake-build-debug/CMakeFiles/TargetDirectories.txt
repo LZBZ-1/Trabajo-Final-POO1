@@ -1,0 +1,3 @@
+C:/Users/jalb2/OneDrive/Documentos/C++/TrabajoFinal2/cmake-build-debug/CMakeFiles/TrabajoFinal2.dir
+C:/Users/jalb2/OneDrive/Documentos/C++/TrabajoFinal2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jalb2/OneDrive/Documentos/C++/TrabajoFinal2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
