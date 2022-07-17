@@ -2,8 +2,8 @@
 Trabajo Final del Grupo 12
 
 ## Acotaciones:
-Branch Master esta dirigira a personas con la version de C++11 y la version actualizada de DevC++  
-Branch CLion_C++20_Version_0.4 esta dirigida a personas con el CLion en una version C++20
+Branch o Rama Master esta dirigira a personas con la version de C++11 y la version actualizada de DevC++  
+Branch o Rama CLion_C++20_Version_0.4 esta dirigida a personas con el CLion en una version C++20
 
 ## Integrantes:
 - Jose Alonso Lozada Bazan
